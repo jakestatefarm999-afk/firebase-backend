@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="character-ai-app">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/character-ai-app.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
